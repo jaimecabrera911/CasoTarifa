@@ -1,0 +1,219 @@
+[
+  {
+    "codigo": "CEL001",
+    "nombre": "Smartphone X",
+    "precio": 599.99,
+    "stock": 50,
+    "descuento": 0.1
+  },
+  {
+    "codigo": "CEL002",
+    "nombre": "Smartphone Y",
+    "precio": 699.99,
+    "stock": 30,
+    "descuento": 0.05
+  },
+  {
+    "codigo": "TV001",
+    "nombre": "Televisor LED 4K",
+    "precio": 899.99,
+    "stock": 20,
+    "descuento": 0.2
+  },
+  {
+    "codigo": "TV002",
+    "nombre": "Televisor Curvo HD",
+    "precio": 799.99,
+    "stock": 25,
+    "descuento": 0.15
+  },
+  {
+    "codigo": "CONS001",
+    "nombre": "Consola de Juegos A",
+    "precio": 299.99,
+    "stock": 40,
+    "descuento": 0.08
+  },
+  {
+    "codigo": "CONS002",
+    "nombre": "Consola de Juegos B",
+    "precio": 349.99,
+    "stock": 35,
+    "descuento": 0.12
+  },
+  {
+    "codigo": "VG001",
+    "nombre": "Juego de Aventuras",
+    "precio": 49.99,
+    "stock": 100,
+    "descuento": 0.0
+  },
+  {
+    "codigo": "CEL003",
+    "nombre": "Smartphone Z",
+    "precio": 499.99,
+    "stock": 60,
+    "descuento": 0.18
+  },
+  {
+    "codigo": "TV003",
+    "nombre": "Televisor OLED 8K",
+    "precio": 1099.99,
+    "stock": 15,
+    "descuento": 0.25
+  },
+  {
+    "codigo": "CONS003",
+    "nombre": "Consola de Juegos C",
+    "precio": 249.99,
+    "stock": 55,
+    "descuento": 0.07
+  },
+  {
+    "codigo": "VG002",
+    "nombre": "Juego de Estrategia",
+    "precio": 39.99,
+    "stock": 80,
+    "descuento": 0.03
+  },
+  {
+    "codigo": "CEL004",
+    "nombre": "Smartphone A1",
+    "precio": 679.99,
+    "stock": 45,
+    "descuento": 0.14
+  },
+  {
+    "codigo": "TV004",
+    "nombre": "Televisor QLED 4K",
+    "precio": 759.99,
+    "stock": 18,
+    "descuento": 0.1
+  },
+  {
+    "codigo": "CONS004",
+    "nombre": "Consola de Juegos D",
+    "precio": 329.99,
+    "stock": 38,
+    "descuento": 0.09
+  },
+  {
+    "codigo": "VG003",
+    "nombre": "Juego de Deportes",
+    "precio": 59.99,
+    "stock": 90,
+    "descuento": 0.02
+  },
+  {
+    "codigo": "CEL005",
+    "nombre": "Smartphone B2",
+    "precio": 529.99,
+    "stock": 70,
+    "descuento": 0.06
+  },
+  {
+    "codigo": "TV005",
+    "nombre": "Televisor Ultra Slim",
+    "precio": 969.99,
+    "stock": 22,
+    "descuento": 0.22
+  },
+  {
+    "codigo": "CONS005",
+    "nombre": "Consola de Juegos E",
+    "precio": 289.99,
+    "stock": 42,
+    "descuento": 0.11
+  },
+  {
+    "codigo": "VG004",
+    "nombre": "Juego de Puzzle",
+    "precio": 44.99,
+    "stock": 75,
+    "descuento": 0.04
+  },
+  {
+    "codigo": "CEL006",
+    "nombre": "Smartphone C3",
+    "precio": 449.99,
+    "stock": 65,
+    "descuento": 0.16
+  },
+  {
+    "codigo": "TV006",
+    "nombre": "Televisor HD Ready",
+    "precio": 839.99,
+    "stock": 28,
+    "descuento": 0.17
+  },
+  {
+    "codigo": "CONS006",
+    "nombre": "Consola de Juegos F",
+    "precio": 309.99,
+    "stock": 33,
+    "descuento": 0.13
+  },
+  {
+    "codigo": "VG005",
+    "nombre": "Juego de Carreras",
+    "precio": 54.99,
+    "stock": 95,
+    "descuento": 0.01
+  },
+  {
+    "codigo": "CEL007",
+    "nombre": "Smartphone D4",
+    "precio": 589.99,
+    "stock": 55,
+    "descuento": 0.19
+  },
+  {
+    "codigo": "TV007",
+    "nombre": "Televisor 3D",
+    "precio": 919.99,
+    "stock": 24,
+    "descuento": 0.23
+  },
+  {
+    "codigo": "CONS007",
+    "nombre": "Consola de Juegos G",
+    "precio": 269.99,
+    "stock": 48,
+    "descuento": 0.16
+  },
+  {
+    "codigo": "VG006",
+    "nombre": "Juego de Rol",
+    "precio": 49.99,
+    "stock": 85,
+    "descuento": 0.05
+  },
+  {
+    "codigo": "CEL008",
+    "nombre": "Smartphone E5",
+    "precio": 659.99,
+    "stock": 40,
+    "descuento": 0.12
+  },
+  {
+    "codigo": "TV008",
+    "nombre": "Televisor 4K OLED",
+    "precio": 789.99,
+    "stock": 20,
+    "descuento": 0.14
+  },
+  {
+    "codigo": "CONS008",
+    "nombre": "Consola de Juegos H",
+    "precio": 349.99,
+    "stock": 30,
+    "descuento": 0.08
+  },
+  {
+    "codigo": "VG007",
+    "nombre": "Juego Educativo",
+    "precio": 34.99,
+    "stock": 110,
+    "descuento": 0.5
+  }
+]
